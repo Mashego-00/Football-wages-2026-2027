@@ -1,0 +1,14 @@
+# database — rebuildable with load_db.py
+*.db
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# raw data exports (see README for sources)
+data/raw/
+
+# OS
+.DS_Store

@@ -1,0 +1,188 @@
+player,squad,pos,age,weekly_wage_gbp,annual_wage_gbp,wage_is_estimate,mp,starts,minutes,goals,assists,nineties,ga_per90,position_group,goal_contributions,expected_ga_per90,efficiency_gap,verdict,value_rank,weekly_wage_per_contribution_gbp
+João Pedro,Chelsea,FW,24,200000.0,10400000.0,True,6,6,520,5,3,5.777777777777778,1.385,FW,8,0.62,0.764,Underpaid (outperforming wage),1,25000.0
+Rayan Cherki,Manchester City,MF,22,200000.0,10400000.0,True,10,7,585,5,2,6.5,1.077,MF,7,0.366,0.711,Underpaid (outperforming wage),2,28571.0
+Johan Manzambi,Aston Villa,MF,20,85000.0,4420000.0,False,8,7,521,2,3,5.788888888888889,0.864,MF,5,0.277,0.586,Underpaid (outperforming wage),3,17000.0
+Pascal Groß,Brighton,MF,35,90000.0,4680000.0,True,11,11,970,4,4,10.77777777777778,0.742,MF,8,0.283,0.459,Underpaid (outperforming wage),4,11250.0
+Antoine Semenyo,Manchester City,MF,26,180000.0,9360000.0,False,7,6,554,2,3,6.155555555555556,0.812,MF,5,0.355,0.457,Underpaid (outperforming wage),5,36000.0
+Ben White,Arsenal,DF,28,150000.0,7800000.0,True,7,7,532,0,3,5.911111111111111,0.508,DF,3,0.098,0.409,Underpaid (outperforming wage),6,50000.0
+Joško Gvardiol,Manchester City,DF,24,260000.0,13520000.0,True,11,8,715,1,3,7.944444444444445,0.503,DF,4,0.11,0.394,Underpaid (outperforming wage),7,65000.0
+Evanilson,Bournemouth,FW,26,125000.0,6500000.0,True,11,11,926,6,4,10.28888888888889,0.972,FW,10,0.59,0.382,Underpaid (outperforming wage),8,12500.0
+Noah Okafor,Leeds United,MFFW,26,80000.0,4160000.0,False,10,7,554,4,0,6.155555555555556,0.65,MF,4,0.271,0.379,Underpaid (outperforming wage),9,20000.0
+Abdoul Ouattara,Ipswich Town,DFMF,20,30000.0,1560000.0,True,11,7,640,1,2,7.111111111111111,0.422,DF,3,0.066,0.356,Underpaid (outperforming wage),10,10000.0
+John McGinn,Aston Villa,MF,31,130000.0,6760000.0,True,11,9,821,2,4,9.122222222222222,0.658,MF,6,0.322,0.336,Underpaid (outperforming wage),11,21667.0
+Jaidon Anthony,Brentford,MF,26,70000.0,3640000.0,True,9,5,476,1,2,5.288888888888889,0.567,MF,3,0.257,0.31,Underpaid (outperforming wage),12,23333.0
+Justin Kluivert,Bournemouth,MF,27,110000.0,5720000.0,True,9,8,587,2,2,6.522222222222222,0.613,MF,4,0.304,0.309,Underpaid (outperforming wage),13,27500.0
+Marcus Tavernier,Bournemouth,MF,27,90000.0,4680000.0,True,11,11,929,5,1,10.322222222222225,0.581,MF,6,0.283,0.298,Underpaid (outperforming wage),14,15000.0
+Tatsuhiro Sakamoto,Coventry City,MF,29,15000.0,780000.0,True,7,5,489,2,0,5.433333333333334,0.368,MF,2,0.097,0.271,Underpaid (outperforming wage),15,7500.0
+Keane Lewis-Potter,Brentford,DFMF,25,70000.0,3640000.0,True,10,10,773,2,1,8.588888888888889,0.349,DF,3,0.083,0.266,Underpaid (outperforming wage),16,23333.0
+Morgan Rogers,Chelsea,MF,24,280000.0,14560000.0,True,11,11,970,5,2,10.77777777777778,0.649,MF,7,0.401,0.248,Underpaid (outperforming wage),17,40000.0
+Maxim De Cuyper,Brighton,MF,25,65000.0,3380000.0,True,11,11,913,2,3,10.144444444444444,0.493,MF,5,0.249,0.243,Underpaid (outperforming wage),18,13000.0
+Jordan Henderson,Chelsea,MF,36,100000.0,5200000.0,True,6,5,515,2,1,5.722222222222222,0.524,MF,3,0.294,0.23,Underpaid (outperforming wage),19,33333.0
+Florian Wirtz,Liverpool,MF,23,250000.0,13000000.0,False,11,11,880,2,4,9.77777777777778,0.614,MF,6,0.389,0.224,Underpaid (outperforming wage),20,41667.0
+Riccardo Calafiori,Arsenal,DF,24,140000.0,7280000.0,False,11,10,859,1,2,9.544444444444444,0.314,DF,3,0.097,0.217,Underpaid (outperforming wage),21,46667.0
+Yasin Ayari,Brighton,MF,22,20000.0,1040000.0,True,10,10,807,3,0,8.966666666666667,0.335,MF,3,0.127,0.208,Underpaid (outperforming wage),22,6667.0
+Leif Davis,Ipswich Town,DF,26,40000.0,2080000.0,True,11,11,982,2,1,10.911111111111111,0.275,DF,3,0.071,0.203,Underpaid (outperforming wage),23,13333.0
+Thierno Barry,Everton,FW,23,55000.0,2860000.0,True,10,10,851,6,1,9.455555555555556,0.74,FW,7,0.538,0.203,Underpaid (outperforming wage),23,7857.0
+Brandon Thomas-Asante,Coventry City,MFFW,27,25000.0,1300000.0,True,11,5,520,0,2,5.777777777777778,0.346,MF,2,0.15,0.196,About right,25,12500.0
+Cody Gakpo,Liverpool,MF,27,310000.0,16120000.0,True,8,7,602,1,3,6.688888888888889,0.598,MF,4,0.412,0.186,About right,26,77500.0
+Bruno Fernandes,Manchester Utd,MF,31,320000.0,16640000.0,False,10,10,900,4,2,10.0,0.6,MF,6,0.415,0.185,About right,27,53333.0
+Cole Palmer,Chelsea,MF,24,220000.0,11440000.0,False,11,11,967,3,3,10.744444444444444,0.558,MF,6,0.376,0.182,About right,28,36667.0
+Amar Dedić,Newcastle,DF,23,90000.0,4680000.0,True,9,8,669,0,2,7.433333333333334,0.269,DF,2,0.088,0.181,About right,29,45000.0
+Nicolas Jackson,Aston Villa,FW,25,180000.0,9360000.0,True,10,10,794,6,1,8.822222222222223,0.793,FW,7,0.614,0.18,About right,30,25714.0
+Jacob Murphy,Newcastle,MF,31,40000.0,2080000.0,True,10,6,483,1,1,5.366666666666666,0.373,MF,2,0.199,0.174,About right,31,20000.0
+Nilson Angulo,Sunderland,MF,23,30000.0,1560000.0,True,10,8,536,1,1,5.955555555555556,0.336,MF,2,0.169,0.167,About right,32,15000.0
+Andy Robertson,Tottenham,DFMF,32,160000.0,8320000.0,True,10,8,677,0,2,7.522222222222222,0.266,DF,2,0.1,0.166,About right,33,80000.0
+Kevin Schade,Brentford,MFFW,24,35000.0,1820000.0,True,10,9,777,3,0,8.633333333333333,0.347,MF,3,0.185,0.162,About right,34,11667.0
+Julio Enciso,Ipswich Town,MF,22,60000.0,3120000.0,True,11,11,914,2,2,10.155555555555557,0.394,MF,4,0.241,0.153,About right,35,15000.0
+Bradley Barcola,Liverpool,MF,23,280000.0,14560000.0,False,9,8,651,0,4,7.233333333333333,0.553,MF,4,0.401,0.152,About right,36,70000.0
+Erling Haaland,Manchester City,FW,26,525000.0,27300000.0,False,11,11,979,9,0,10.877777777777778,0.827,FW,9,0.682,0.145,About right,37,58333.0
+Jay Dasilva,Coventry City,DFMF,28,20000.0,1040000.0,True,10,10,894,1,1,9.933333333333334,0.201,DF,2,0.057,0.144,About right,38,10000.0
+Harvey Barnes,Newcastle,MF,28,125000.0,6500000.0,True,11,11,975,3,2,10.833333333333334,0.462,MF,5,0.317,0.144,About right,38,25000.0
+Diego Gómez,Brighton,MF,23,60000.0,3120000.0,True,11,11,951,2,2,10.566666666666666,0.379,MF,4,0.241,0.137,About right,40,15000.0
+Joe Willock,Newcastle,MF,26,90000.0,4680000.0,True,11,8,650,2,1,7.222222222222222,0.415,MF,3,0.283,0.132,About right,41,30000.0
+Alexander Isak,Liverpool,FW,26,300000.0,15600000.0,False,10,10,830,7,0,9.22222222222222,0.759,FW,7,0.646,0.113,About right,42,42857.0
+Marc Guéhi,Manchester City,DFMF,26,270000.0,14040000.0,False,10,10,810,1,1,9.0,0.222,DF,2,0.11,0.112,About right,43,135000.0
+Kiernan Dewsbury-Hall,Everton,MF,27,100000.0,5200000.0,True,10,10,893,3,1,9.922222222222222,0.403,MF,4,0.294,0.109,About right,44,25000.0
+James Tarkowski,Everton,DF,33,120000.0,6240000.0,True,10,10,900,1,1,10.0,0.2,DF,2,0.094,0.106,About right,45,60000.0
+Yéremy Pino,Crystal Palace,MF,23,65000.0,3380000.0,True,11,10,763,2,1,8.477777777777778,0.354,MF,3,0.249,0.104,About right,46,21667.0
+Lewis Hall,Newcastle,DF,21,65000.0,3380000.0,True,11,11,988,1,1,10.977777777777778,0.182,DF,2,0.081,0.101,About right,47,32500.0
+Declan Rice,Arsenal,MF,27,260000.0,13520000.0,False,11,11,912,0,5,10.133333333333333,0.493,MF,5,0.394,0.1,About right,48,52000.0
+Pedro Neto,Chelsea,MFFW,26,220000.0,11440000.0,True,11,9,766,3,1,8.511111111111111,0.47,MF,4,0.376,0.094,About right,49,55000.0
+Mohammed Kudus,Tottenham,MFFW,25,150000.0,7800000.0,True,10,6,627,0,3,6.966666666666667,0.431,MF,3,0.336,0.094,About right,49,50000.0
+Tarik Muharemovic,Leeds United,DF,23,100000.0,5200000.0,False,11,11,990,0,2,11.0,0.182,DF,2,0.09,0.092,About right,51,50000.0
+Enzo Le Fée,Sunderland,MF,26,100000.0,5200000.0,True,11,11,953,3,1,10.588888888888889,0.378,MF,4,0.294,0.084,About right,52,25000.0
+Jan Paul van Hecke,Tottenham,DF,26,170000.0,8840000.0,True,11,11,990,2,0,11.0,0.182,DF,2,0.101,0.081,About right,53,85000.0
+Nobel Mendy,Hull City,DF,21,35000.0,1820000.0,True,8,8,609,1,0,6.766666666666667,0.148,DF,1,0.069,0.079,About right,54,35000.0
+Daichi Kamada,Crystal Palace,MF,29,105000.0,5460000.0,False,11,11,967,1,3,10.744444444444444,0.372,MF,4,0.299,0.073,About right,55,26250.0
+Morgan Gibbs-White,Nottingham,MF,26,140000.0,7280000.0,True,10,10,900,1,3,10.0,0.4,MF,4,0.329,0.071,About right,56,35000.0
+Roméo Lavia,Chelsea,MF,22,70000.0,3640000.0,True,9,7,548,1,1,6.088888888888889,0.328,MF,2,0.257,0.071,About right,56,35000.0
+Charalampos Kostoulas,Brighton,FW,19,50000.0,2600000.0,True,11,9,749,3,2,8.322222222222223,0.601,FW,5,0.531,0.069,About right,58,10000.0
+Oliver McBurnie,Hull City,FW,30,30000.0,1560000.0,True,11,11,976,4,2,10.844444444444443,0.553,FW,6,0.499,0.055,About right,59,5000.0
+Ryan Giles,Hull City,DF,26,40000.0,2080000.0,True,11,8,724,0,1,8.044444444444444,0.124,DF,1,0.071,0.053,About right,60,40000.0
+Bryan Mbeumo,Manchester Utd,MFFW,26,170000.0,8840000.0,False,11,11,913,4,0,10.144444444444444,0.394,MF,4,0.349,0.045,About right,61,42500.0
+Bukayo Saka,Arsenal,MF,24,300000.0,15600000.0,False,7,7,596,3,0,6.622222222222222,0.453,MF,3,0.408,0.045,About right,61,100000.0
+Sven Botman,Newcastle,DF,26,160000.0,8320000.0,True,8,7,631,1,0,7.011111111111111,0.143,DF,1,0.1,0.043,About right,63,160000.0
+Archie Gray,Tottenham,DFMF,20,80000.0,4160000.0,False,10,8,714,1,0,7.933333333333334,0.126,DF,1,0.086,0.04,About right,64,80000.0
+Jair,Nottingham,DF,21,40000.0,2080000.0,True,9,9,804,1,0,8.933333333333334,0.112,DF,1,0.071,0.04,About right,64,40000.0
+Maxence Lacroix,Chelsea,DF,26,190000.0,9880000.0,True,8,7,635,0,1,7.055555555555555,0.142,DF,1,0.103,0.039,About right,66,190000.0
+Michael Kayode,Brentford,DF,22,70000.0,3640000.0,True,10,9,745,1,0,8.277777777777779,0.121,DF,1,0.083,0.038,About right,67,70000.0
+Timothy Castagne,Fulham,DF,30,70000.0,3640000.0,True,9,9,750,0,1,8.333333333333334,0.12,DF,1,0.083,0.037,About right,68,70000.0
+Semi Ajayi,Hull City,DF,32,25000.0,1300000.0,True,11,11,941,1,0,10.455555555555556,0.096,DF,1,0.062,0.034,About right,69,25000.0
+Vitaliy Mykolenko,Everton,DF,27,90000.0,4680000.0,True,9,9,793,0,1,8.811111111111112,0.113,DF,1,0.088,0.026,About right,70,90000.0
+Malick Thiaw,Newcastle,DF,24,90000.0,4680000.0,True,10,9,805,1,0,8.944444444444445,0.112,DF,1,0.088,0.024,About right,71,90000.0
+Olivier Boscagli,Brighton,DF,28,70000.0,3640000.0,True,11,11,847,0,1,9.411111111111111,0.106,DF,1,0.083,0.023,About right,72,70000.0
+James Justin,Leeds United,DFMF,28,40000.0,2080000.0,True,11,11,971,1,0,10.78888888888889,0.093,DF,1,0.071,0.021,About right,73,40000.0
+Lewis Dunk,Brighton,DF,34,85000.0,4420000.0,True,10,9,840,1,0,9.333333333333334,0.107,DF,1,0.087,0.02,About right,74,85000.0
+James Hill,Bournemouth,DF,24,50000.0,2600000.0,True,11,11,990,0,1,11.0,0.091,DF,1,0.076,0.015,About right,75,50000.0
+Dara O'Shea,Ipswich Town,DF,27,50000.0,2600000.0,True,11,11,990,1,0,11.0,0.091,DF,1,0.076,0.015,About right,75,50000.0
+Kristoffer Ajer,Brentford,DF,28,80000.0,4160000.0,True,10,10,900,1,0,10.0,0.1,DF,1,0.086,0.014,About right,77,80000.0
+Adrien Truffert,Bournemouth,DF,24,65000.0,3380000.0,True,11,11,983,0,1,10.922222222222222,0.092,DF,1,0.081,0.01,About right,78,65000.0
+Harrison Armstrong,Everton,MF,19,15000.0,780000.0,True,10,10,858,0,1,9.533333333333331,0.105,MF,1,0.097,0.008,About right,79,15000.0
+Ezri Konsa,Arsenal,DF,28,180000.0,9360000.0,True,10,9,822,1,0,9.133333333333333,0.109,DF,1,0.102,0.007,About right,80,180000.0
+Noni Madueke,Arsenal,MF,24,160000.0,8320000.0,True,8,5,519,2,0,5.766666666666667,0.347,MF,2,0.343,0.004,About right,81,80000.0
+Bruno Guimarães,Arsenal,MF,28,250000.0,13000000.0,True,9,5,458,2,0,5.088888888888889,0.393,MF,2,0.389,0.004,About right,81,125000.0
+Martin Ødegaard,Arsenal,MF,27,260000.0,13520000.0,False,11,11,913,3,1,10.144444444444444,0.394,MF,4,0.394,0.001,About right,83,65000.0
+Vitaly Janelt,Brentford,MF,28,50000.0,2600000.0,True,9,9,809,2,0,8.988888888888889,0.222,MF,2,0.222,0.0,About right,84,25000.0
+Murillo,Nottingham,DF,24,120000.0,6240000.0,True,11,11,988,0,1,10.977777777777778,0.091,DF,1,0.094,-0.003,About right,85,120000.0
+Dan Ndoye,Nottingham,MF,25,85000.0,4420000.0,False,11,10,663,2,0,7.366666666666666,0.271,MF,2,0.277,-0.006,About right,86,42500.0
+Dominik Szoboszlai,Liverpool,MF,25,320000.0,16640000.0,True,9,8,662,2,1,7.355555555555555,0.408,MF,3,0.415,-0.007,About right,87,106667.0
+Gabriel Magalhães,Arsenal,DF,28,180000.0,9360000.0,True,11,11,990,1,0,11.0,0.091,DF,1,0.102,-0.011,About right,88,180000.0
+Dominic Calvert-Lewin,Leeds United,FW,29,120000.0,6240000.0,True,11,11,953,4,2,10.588888888888889,0.567,FW,6,0.588,-0.021,About right,89,20000.0
+Alex Scott,Bournemouth,MF,22,50000.0,2600000.0,True,6,5,467,1,0,5.188888888888889,0.193,MF,1,0.222,-0.029,About right,90,50000.0
+Jayden Bogle,Leeds United,MF,26,55000.0,2860000.0,True,11,11,895,2,0,9.944444444444445,0.201,MF,2,0.232,-0.031,About right,91,27500.0
+Jeremy Doku,Manchester City,MFFW,24,280000.0,14560000.0,False,7,5,487,1,1,5.411111111111111,0.37,MF,2,0.401,-0.032,About right,92,140000.0
+Regan Slater,Hull City,MF,26,20000.0,1040000.0,True,11,11,944,0,1,10.488888888888887,0.095,MF,1,0.127,-0.032,About right,92,20000.0
+Tyrick Mitchell,Crystal Palace,MF,26,50000.0,2600000.0,True,11,11,959,2,0,10.655555555555557,0.188,MF,2,0.222,-0.034,About right,94,25000.0
+Iliman Ndiaye,Manchester City,MFFW,26,180000.0,9360000.0,True,11,10,843,0,3,9.366666666666667,0.32,MF,3,0.355,-0.035,About right,95,60000.0
+Daizen Maeda,Ipswich Town,MF,28,40000.0,2080000.0,True,11,7,569,1,0,6.322222222222222,0.158,MF,1,0.199,-0.041,About right,96,40000.0
+Oscar Bobb,Fulham,MF,23,75000.0,3900000.0,True,11,11,805,1,1,8.944444444444445,0.224,MF,2,0.264,-0.041,About right,96,37500.0
+Ao Tanaka,Leeds United,MF,27,30000.0,1560000.0,True,10,9,718,0,1,7.977777777777778,0.125,MF,1,0.169,-0.044,About right,98,30000.0
+Bobby Thomas,Coventry City,DF,25,15000.0,780000.0,True,9,9,766,0,0,8.511111111111111,0.0,DF,0,0.052,-0.052,About right,99,
+Luke O'Nien,Sunderland,DF,31,20000.0,1040000.0,True,6,5,458,0,0,5.088888888888889,0.0,DF,0,0.057,-0.057,About right,100,
+Milan van Ewijk,Coventry City,DFMF,25,20000.0,1040000.0,True,10,10,900,0,0,10.0,0.0,DF,0,0.057,-0.057,About right,100,
+Lewie Coyle,Hull City,DF,30,20000.0,1040000.0,True,11,11,811,0,0,9.011111111111113,0.0,DF,0,0.057,-0.057,About right,100,
+John Egan,Hull City,DF,33,25000.0,1300000.0,True,10,10,842,0,0,9.355555555555556,0.0,DF,0,0.062,-0.062,About right,103,
+Mathys Tel,Tottenham,MFFW,21,65000.0,3380000.0,True,8,6,479,1,0,5.322222222222222,0.188,MF,1,0.249,-0.062,About right,103,65000.0
+Pep Chavarría,Chelsea,MFDF,28,70000.0,3640000.0,True,9,4,468,0,1,5.2,0.192,MF,1,0.257,-0.065,About right,105,70000.0
+Jaydee Canvot,Crystal Palace,DF,20,30000.0,1560000.0,True,9,8,738,0,0,8.2,0.0,DF,0,0.066,-0.066,About right,106,
+Jacob Greaves,Ipswich Town,DF,25,30000.0,1560000.0,True,6,5,454,0,0,5.044444444444444,0.0,DF,0,0.066,-0.066,About right,106,
+Ethan Pinnock,Coventry City,DF,33,30000.0,1560000.0,True,10,9,823,0,0,9.144444444444444,0.0,DF,0,0.066,-0.066,About right,106,
+Nico Elvedi,Leeds United,DF,29,45000.0,2340000.0,True,9,8,772,0,0,8.577777777777778,0.0,DF,0,0.074,-0.074,About right,109,
+Daniel Ballard,Sunderland,DF,26,50000.0,2600000.0,True,5,5,450,0,0,5.0,0.0,DF,0,0.076,-0.076,About right,110,
+Reinildo Mandava,Sunderland,DF,32,50000.0,2600000.0,True,10,10,881,0,0,9.78888888888889,0.0,DF,0,0.076,-0.076,About right,110,
+Chris Richards,Crystal Palace,DF,26,60000.0,3120000.0,True,11,11,990,0,0,11.0,0.0,DF,0,0.08,-0.08,About right,112,
+Adam Smith,Bournemouth,DF,35,60000.0,3120000.0,True,11,11,932,0,0,10.355555555555556,0.0,DF,0,0.08,-0.08,About right,112,
+Calvin Bassey,Fulham,DF,26,60000.0,3120000.0,True,11,11,990,0,0,11.0,0.0,DF,0,0.08,-0.08,About right,112,
+David Affengruber,Fulham,DF,25,65000.0,3380000.0,True,8,8,720,0,0,8.0,0.0,DF,0,0.081,-0.081,About right,115,
+Issa Diop,Ipswich Town,DF,29,70000.0,3640000.0,True,11,11,990,0,0,11.0,0.0,DF,0,0.083,-0.083,About right,116,
+Merlin Röhl,Everton,DFMF,24,70000.0,3640000.0,True,7,7,591,0,0,6.566666666666666,0.0,DF,0,0.083,-0.083,About right,116,
+Gabriel Gudmundsson,Leeds United,MF,27,45000.0,2340000.0,True,9,9,718,0,1,7.977777777777778,0.125,MF,1,0.211,-0.086,About right,118,45000.0
+Axel Disasi,Crystal Palace,DF,28,80000.0,4160000.0,True,7,6,499,0,0,5.544444444444444,0.0,DF,0,0.086,-0.086,About right,118,
+Antonee Robinson,Fulham,DF,28,85000.0,4420000.0,True,10,9,810,0,0,9.0,0.0,DF,0,0.087,-0.087,About right,120,
+Milos Kerkez,Liverpool,DF,22,90000.0,4680000.0,True,11,10,912,0,0,10.133333333333333,0.0,DF,0,0.088,-0.088,About right,121,
+Ferdi Kadioglu,Brighton,DF,26,95000.0,4940000.0,False,8,7,528,0,0,5.866666666666666,0.0,DF,0,0.089,-0.089,About right,122,
+Diogo Dalot,Manchester Utd,DF,27,95000.0,4940000.0,True,11,9,804,0,0,8.933333333333334,0.0,DF,0,0.089,-0.089,About right,122,
+Nordi Mukiele,Sunderland,DF,28,100000.0,5200000.0,True,9,9,771,0,0,8.566666666666666,0.0,DF,0,0.09,-0.09,About right,124,
+Anton Stach,Leeds United,MF,27,50000.0,2600000.0,True,10,7,683,1,0,7.588888888888889,0.132,MF,1,0.222,-0.09,About right,124,50000.0
+Matty Cash,Aston Villa,DF,28,110000.0,5720000.0,True,8,7,656,0,0,7.288888888888889,0.0,DF,0,0.092,-0.092,About right,126,
+Nikola Milenković,Nottingham,DF,28,110000.0,5720000.0,False,7,7,630,0,0,7.0,0.0,DF,0,0.092,-0.092,About right,126,
+Levi Colwill,Chelsea,DF,23,110000.0,5720000.0,False,10,10,836,0,0,9.28888888888889,0.0,DF,0,0.092,-0.092,About right,126,
+Abdukodir Khusanov,Manchester City,DF,22,110000.0,5720000.0,True,8,7,642,0,0,7.133333333333334,0.0,DF,0,0.092,-0.092,About right,126,
+Pau Torres,Aston Villa,DF,29,110000.0,5720000.0,True,8,7,561,0,0,6.233333333333333,0.0,DF,0,0.092,-0.092,About right,126,
+Victor Lindelöf,Aston Villa,DF,32,120000.0,6240000.0,True,10,10,900,0,0,10.0,0.0,DF,0,0.094,-0.094,About right,131,
+Lisandro Martínez,Manchester Utd,DF,28,130000.0,6760000.0,False,9,8,673,0,0,7.477777777777778,0.0,DF,0,0.095,-0.095,About right,132,
+Jarrad Branthwaite,Everton,DF,24,130000.0,6760000.0,True,9,9,799,0,0,8.877777777777778,0.0,DF,0,0.095,-0.095,About right,132,
+Ian Maatsen,Aston Villa,DF,24,130000.0,6760000.0,True,8,8,695,0,0,7.722222222222222,0.0,DF,0,0.095,-0.095,About right,132,
+Micky van de Ven,Tottenham,DF,25,130000.0,6760000.0,True,9,8,737,0,0,8.188888888888888,0.0,DF,0,0.095,-0.095,About right,132,
+Quinten Timber,Crystal Palace,MF,25,80000.0,4160000.0,True,7,7,519,0,1,5.766666666666667,0.173,MF,1,0.271,-0.098,About right,136,80000.0
+Yoane Wissa,Newcastle,MFFW,29,170000.0,8840000.0,True,11,8,716,1,1,7.955555555555556,0.251,MF,2,0.349,-0.098,About right,136,85000.0
+Jérémy Jacquet,Liverpool,DF,21,150000.0,7800000.0,True,11,11,952,0,0,10.577777777777778,0.0,DF,0,0.098,-0.098,About right,136,
+Matheus Nunes,Manchester City,DF,27,160000.0,8320000.0,True,7,5,515,0,0,5.722222222222222,0.0,DF,0,0.1,-0.1,About right,139,
+Tyrique George,Everton,MF,20,60000.0,3120000.0,True,10,7,639,1,0,7.1,0.141,MF,1,0.241,-0.1,About right,139,60000.0
+Harry Maguire,Manchester Utd,DF,33,180000.0,9360000.0,True,11,10,924,0,0,10.266666666666667,0.0,DF,0,0.102,-0.102,About right,141,
+Ronald Araújo,Liverpool,DF,27,210000.0,10920000.0,True,11,9,748,0,0,8.311111111111112,0.0,DF,0,0.105,-0.105,About right,142,
+Wesley Fofana,Chelsea,DF,25,220000.0,11440000.0,False,7,7,582,0,0,6.466666666666667,0.0,DF,0,0.106,-0.106,About right,143,
+Saša Lukić,Ipswich Town,MF,29,75000.0,3900000.0,True,7,7,580,0,1,6.444444444444445,0.155,MF,1,0.264,-0.109,About right,144,75000.0
+Rúben Dias,Manchester City,DF,29,260000.0,13520000.0,True,11,11,990,0,0,11.0,0.0,DF,0,0.11,-0.11,About right,145,
+Dominic Solanke,Tottenham,FW,28,140000.0,7280000.0,True,11,6,555,2,1,6.166666666666667,0.486,FW,3,0.597,-0.111,About right,146,46667.0
+Christos Tzolis,Arsenal,MF,24,90000.0,4680000.0,False,8,7,534,0,1,5.933333333333334,0.169,MF,1,0.283,-0.115,About right,147,90000.0
+Virgil van Dijk,Liverpool,DF,35,350000.0,18200000.0,False,11,11,990,0,0,11.0,0.0,DF,0,0.116,-0.116,About right,148,
+Adam Wharton,Crystal Palace,MF,22,45000.0,2340000.0,True,11,11,973,0,1,10.811111111111112,0.092,MF,1,0.211,-0.119,About right,149,45000.0
+Thomas Meunier,Sunderland,MFDF,34,75000.0,3900000.0,True,9,8,625,0,1,6.944444444444445,0.144,MF,1,0.264,-0.12,About right,150,75000.0
+Jørgen Strand Larsen,Crystal Palace,FW,26,125000.0,6500000.0,True,9,7,590,2,1,6.555555555555555,0.458,FW,3,0.59,-0.133,About right,151,41667.0
+Youri Tielemans,Manchester Utd,MF,29,250000.0,13000000.0,True,10,10,717,1,1,7.966666666666667,0.251,MF,2,0.389,-0.138,About right,152,125000.0
+Emi Buendía,Aston Villa,MFFW,29,85000.0,4420000.0,False,10,8,644,1,0,7.155555555555556,0.14,MF,1,0.277,-0.138,About right,152,85000.0
+Brian Brobbey,Sunderland,FW,24,100000.0,5200000.0,True,8,8,621,3,0,6.9,0.435,FW,3,0.576,-0.141,About right,154,33333.0
+Igor Thiago,Brentford,FW,25,110000.0,5720000.0,True,10,10,824,2,2,9.155555555555557,0.437,FW,4,0.582,-0.145,About right,155,27500.0
+Mamadou Sangare,Brentford,MF,24,100000.0,5200000.0,True,10,7,615,0,1,6.833333333333333,0.146,MF,1,0.294,-0.148,About right,156,100000.0
+Taiwo Awoniyi,Coventry City,FW,28,50000.0,2600000.0,True,9,6,490,2,0,5.444444444444445,0.367,FW,2,0.531,-0.164,About right,157,25000.0
+Nicolás González,Newcastle,MF,24,140000.0,7280000.0,True,8,8,557,0,1,6.188888888888889,0.162,MF,1,0.329,-0.168,About right,158,140000.0
+Elliot Anderson,Manchester City,MF,23,250000.0,13000000.0,False,11,10,877,1,1,9.744444444444444,0.205,MF,2,0.389,-0.184,About right,159,125000.0
+Matt Grimes,Coventry City,MF,31,35000.0,1820000.0,True,11,9,788,0,0,8.755555555555556,0.0,MF,0,0.185,-0.185,About right,160,
+Daniel Muñoz,Nottingham,MF,30,120000.0,6240000.0,True,10,8,718,0,1,7.977777777777778,0.125,MF,1,0.313,-0.188,About right,161,120000.0
+Neco Williams,Nottingham,MF,25,90000.0,4680000.0,True,11,11,964,1,0,10.71111111111111,0.093,MF,1,0.283,-0.19,About right,162,90000.0
+Noah Sadiki,Sunderland,MF,21,40000.0,2080000.0,True,11,11,934,0,0,10.377777777777778,0.0,MF,0,0.199,-0.199,About right,163,
+Kai Havertz,Arsenal,FW,27,280000.0,14560000.0,False,11,10,821,3,1,9.122222222222222,0.438,FW,4,0.642,-0.203,Overpaid (underperforming wage),164,70000.0
+Alex Iwobi,Fulham,MF,30,110000.0,5720000.0,True,11,11,890,1,0,9.88888888888889,0.101,MF,1,0.304,-0.203,Overpaid (underperforming wage),164,110000.0
+Sander Berge,Fulham,MF,28,120000.0,6240000.0,True,11,9,828,0,1,9.2,0.109,MF,1,0.313,-0.204,Overpaid (underperforming wage),166,120000.0
+Kobbie Mainoo,Manchester Utd,MF,21,160000.0,8320000.0,False,9,7,654,0,1,7.266666666666667,0.138,MF,1,0.343,-0.205,Overpaid (underperforming wage),167,160000.0
+James Mcatee,Nottingham,MF,23,45000.0,2340000.0,True,11,11,904,0,0,10.044444444444444,0.0,MF,0,0.211,-0.211,Overpaid (underperforming wage),168,
+Trai Hume,Sunderland,MFDF,24,45000.0,2340000.0,True,10,8,732,0,0,8.133333333333333,0.0,MF,0,0.211,-0.211,Overpaid (underperforming wage),168,
+Lewis Miley,Newcastle,MFDF,20,45000.0,2340000.0,True,9,8,664,0,0,7.377777777777778,0.0,MF,0,0.211,-0.211,Overpaid (underperforming wage),168,
+Liam Delap,Nottingham,FW,23,100000.0,5200000.0,True,10,9,767,3,0,8.522222222222222,0.352,FW,3,0.576,-0.224,Overpaid (underperforming wage),171,33333.0
+Myles Lewis-Skelly,Arsenal,MFDF,19,55000.0,2860000.0,True,8,6,450,0,0,5.0,0.0,MF,0,0.232,-0.232,Overpaid (underperforming wage),172,
+Shea Charles,Fulham,MF,22,60000.0,3120000.0,True,11,9,825,0,0,9.166666666666666,0.0,MF,0,0.241,-0.241,Overpaid (underperforming wage),173,
+Alexis Mac Allister,Liverpool,MF,27,180000.0,9360000.0,True,11,9,829,1,0,9.21111111111111,0.109,MF,1,0.355,-0.247,Overpaid (underperforming wage),174,180000.0
+Boubacar Kamara,Aston Villa,MF,26,170000.0,8840000.0,True,11,11,971,0,1,10.78888888888889,0.093,MF,1,0.349,-0.257,Overpaid (underperforming wage),175,170000.0
+Sandro Tonali,Tottenham,MF,26,200000.0,10400000.0,False,10,10,877,0,1,9.744444444444444,0.103,MF,1,0.366,-0.264,Overpaid (underperforming wage),176,200000.0
+Matheus Cunha,Manchester Utd,FWMF,27,220000.0,11440000.0,False,11,9,748,1,2,8.311111111111112,0.361,FW,3,0.626,-0.266,Overpaid (underperforming wage),177,73333.0
+Tyler Adams,Bournemouth,MF,27,80000.0,4160000.0,True,11,9,797,0,0,8.855555555555556,0.0,MF,0,0.271,-0.271,Overpaid (underperforming wage),178,
+Ethan Ampadu,Leeds United,MF,25,80000.0,4160000.0,True,11,11,990,0,0,11.0,0.0,MF,0,0.271,-0.271,Overpaid (underperforming wage),178,
+Ryan Christie,Bournemouth,MF,31,85000.0,4420000.0,True,10,6,482,0,0,5.355555555555555,0.0,MF,0,0.277,-0.277,Overpaid (underperforming wage),180,
+Enzo Fernández,Manchester City,MF,25,350000.0,18200000.0,False,10,7,628,1,0,6.977777777777778,0.143,MF,1,0.424,-0.281,Overpaid (underperforming wage),181,350000.0
+James Garner,Everton,MF,25,90000.0,4680000.0,True,10,9,779,0,0,8.655555555555555,0.0,MF,0,0.283,-0.283,Overpaid (underperforming wage),182,
+Exequiel Palacios,Ipswich Town,MF,27,100000.0,5200000.0,True,10,8,719,0,0,7.988888888888889,0.0,MF,0,0.294,-0.294,Overpaid (underperforming wage),183,
+Granit Xhaka,Sunderland,MF,33,110000.0,5720000.0,True,10,10,813,0,0,9.033333333333331,0.0,MF,0,0.304,-0.304,Overpaid (underperforming wage),184,
+Mateus Fernandes,Tottenham,MF,22,180000.0,9360000.0,True,11,7,605,0,0,6.722222222222222,0.0,MF,0,0.355,-0.355,Overpaid (underperforming wage),185,
+Moisés Caicedo,Chelsea,MF,24,250000.0,13000000.0,True,7,6,461,0,0,5.122222222222222,0.0,MF,0,0.389,-0.389,Overpaid (underperforming wage),186,
+Omar Marmoush,Tottenham,FWMF,27,250000.0,13000000.0,False,10,8,681,1,0,7.566666666666666,0.132,FW,1,0.635,-0.503,Overpaid (underperforming wage),187,250000.0
