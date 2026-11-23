@@ -40,13 +40,6 @@ most output per pound spent."⟩
 - Wage figures are estimates from Capology.
 - ⟨Any other caveat you found.⟩
 
-## How to run it
-
-```bash
-pip install pandas
-python scripts/load_db.py      # builds football.db from the CSVs in data/
-
-
 # Attacker Value Analysis: Wage vs Output
 
 A Power BI report comparing what football attackers are paid with what they deliver.
@@ -91,3 +84,10 @@ Open `Football_project_visualisation.pbix` in Power BI Desktop. The theme is in 
 ## Tools
 
 Power BI, DAX
+
+## How to run it
+
+```bash
+pip install pandas
+python scripts/load_db.py      # builds football.db from the CSVs in data/
+
