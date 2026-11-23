@@ -45,3 +45,49 @@ most output per pound spent."⟩
 ```bash
 pip install pandas
 python scripts/load_db.py      # builds football.db from the CSVs in data/
+
+
+# Attacker Value Analysis: Wage vs Output
+
+A Power BI report comparing what football attackers are paid with what they deliver.
+
+## Pages
+
+| Page | What it shows |
+|------|---------------|
+| **Overview** | KPI cards (players, underpaid, overpaid, wage per contribution), a wage vs goal-contributions scatter, and the top 10 attackers by efficiency gap. Slicers for club and position. |
+| **Rankings** | Full value ranking table (rank 1 = best value for wage) with wage, goal contributions per 90, expected per 90, efficiency gap and verdict. |
+| **Clubs** | Average efficiency gap by club and total attacker wage bill by club. |
+
+## Screenshots
+
+Add one image per page in `/images` (File > Export > PDF, or Windows + Shift + S) and link them here:
+
+![Overview](images/overview.png)
+![Rankings](images/rankings.png)
+![Clubs](images/clubs.png)
+
+## Data dictionary
+
+| Field | Meaning |
+|-------|---------|
+| `player`, `squad` | Player name and club |
+| `position_group` | Attacker position group |
+| `weekly_wage_gbp` | Weekly wage in GBP |
+| `ga_per90` | Goal contributions per 90 minutes |
+| `expected_ga_per90` | Expected goal contributions per 90 |
+| `efficiency_gap` | Gap between actual and expected output |
+| `value_rank` | Rank of output relative to wage (1 = best value) |
+| `verdict` | Underpaid / overpaid classification |
+
+## Measures
+
+`Players`, `Underpaid Count`, `Overpaid Count`, `Weekly Wage Bill`, `Avg Efficiency Gap`, `Wage per Contribution`
+
+## How to open
+
+Open `Football_project_visualisation.pbix` in Power BI Desktop. The theme is in `FootballDarkPro_theme.json` (View > Themes > Browse for themes).
+
+## Tools
+
+Power BI, DAX
