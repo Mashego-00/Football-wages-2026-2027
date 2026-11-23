@@ -54,11 +54,9 @@ A Power BI report comparing what football attackers are paid with what they deli
 
 ## Screenshots
 
-Add one image per page in `/images` (File > Export > PDF, or Windows + Shift + S) and link them here:
-
-![Overview](images/overview.png)
-![Rankings](images/rankings.png)
-![Clubs](images/clubs.png)
+![Overview](images/AttackerValueAnalysisOverview.png)
+![Rankings](images/ValueRankingAnalysis.png)
+![Clubs](images/ClubAnalysis.png)
 
 ## Data dictionary
 
