@@ -53,9 +53,9 @@ A Power BI report comparing what football attackers are paid with what they deli
 | **Clubs** | Average efficiency gap by club and total attacker wage bill by club. |
 
 ## Screenshots
-![Attacker Value Analysis Overview](main/images/Attacker%20Value%20Analysis%20Overview.png)
-![Value Ranking Analysis](main/images/Value%20Ranking%20Analysis.png)
-![Club Analysis](main/images/Club%20Analysis.png)
+![Attacker Value Analysis Overview](Attacker%20Value%20Analysis%20Overview.png)
+![Value Ranking Analysis](Value%20Ranking%20Analysis.png)
+![Club Analysis](Club%20Analysis.png)
 
 ## Data dictionary
 
