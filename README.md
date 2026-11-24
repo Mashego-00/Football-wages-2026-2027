@@ -10,6 +10,9 @@ millions on wages, but value for money is rarely measured. I wanted to
 see which players outperform their pay packet, and which clubs get the
 most output per pound spent."⟩
 
+## Version 1
+We later see in the season with more refined data to see which attackers have truly outperformed their contracts and lived to expected transfer fees 
+
 ## Data
 
 - **Wages:** Capology (via FBref), 2024/25 season, snapshot ⟨date⟩
